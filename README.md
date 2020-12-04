@@ -8,7 +8,7 @@
 
 - [رزومه](https://mahsaeini99.github.io/Resume/)
 
-- [SOP](https://mahsaeini99.github.io/MySop/)
+- [SOP](https://https://mahsaeini99.github.io/sop/ /MySop/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
