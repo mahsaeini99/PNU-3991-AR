@@ -1,28 +1,29 @@
+# PNU_3991_AR
 
 
-## مهسا عینی 
+### مهسا عینی 
  
 ---
 -  [PNU_3991_AR](https://github.com/mahsaeini99/PNU_3991_AR/blob/gh-pages/README.md)
 - [حساب گیت هاب](https://github.com/mahsaeini99)
 
-- [رزومه](https://mahsaeini99.github.io/Resume/)
+- [رزومه](https://mahsaeini.github.io/Resume/)
 
-- [SOP](https://https://mahsaeini99.github.io/sop/ /MySop/)
+- [SOP](https://mahsaeini99.github.io/MySop/)
+- [PatchWork](https://mahsaeini99.github.io/Fahime_PatchWork_JavaScript/PatchWork.jpeg)
+- [JavaScriptCertificate](https://mahsaeini99.github.io/Fahime_PatchWork_JavaScript/Certificate.PNG)
+
+
+
 
 ------------------
-## Winter Semester Courses 1399/2020
+##  1399/2020
+     
 
+##دروس کارشناسی  
 
-
-  
-  
-
-## دروس ارشد
-
-[1115280_01	 پروژه فناوری اطلاعات 	3](https://github.com/mahsaeini99/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
+[1115280_01	 پروژه فناوری اطلاعات	3](https://github.com/mahsaeini99/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
 <br>
-
 
 --------------
 ## روز و ساعت ارائه دروس
@@ -78,10 +79,10 @@
   </tr>
    <tr>
     <th ></th>
-     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/PNU_3991_AR/tree/gh-pages/SoftwareManagementپروژه فناوری اطلاعات   </a></th>
-     <th ></
+     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مدیریت پروژه نرم افزاری</a></th>
+     <th ></th>
      <th></th>
-    
-    <th>پنج شنبه</th>پروژه فناوری اطلاعات
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">پروژه فناوری اطلاعات</a></th>
+    <th>پنج شنبه</th>
   </tr>
 </table>
