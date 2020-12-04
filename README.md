@@ -9,13 +9,13 @@
 
 - [رزومه](https://mahsaeini.github.io/Resume/)
 
-- [SOP](https://mahsaeini99.github.io/MySop/)
+- [SOP](https://github.com/mahsaeini99/sop.git)
 - [PatchWork](https://mahsaeini99.github.io/Fahime_PatchWork_JavaScript/PatchWork.jpeg)
 - [JavaScriptCertificate](https://mahsaeini99.github.io/Fahime_PatchWork_JavaScript/Certificate.PNG)
 
 
-
-
+https://github.com/mahsaeini99/sop.git
+https://mahsaeini99.github.io/MySop/
 ------------------
 ##  1399/2020
      
