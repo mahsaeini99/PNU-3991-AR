@@ -14,8 +14,6 @@
 - [JavaScriptCertificate](https://mahsaeini99.github.io/Fahime_PatchWork_JavaScript/Certificate.PNG)
 
 
-https://github.com/mahsaeini99/sop.git
-https://mahsaeini99.github.io/MySop/
 ------------------
 ##  1399/2020
      
