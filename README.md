@@ -1,4 +1,4 @@
-# PNU-3991-AR/README.md
+# PNU-3991-AR
 
 
 ### مهسا عینی 
@@ -7,11 +7,10 @@
 -  [PNU_3991_AR](https://github.com/mahsaeini99/PNU-3991-AR.git)
 - [حساب گیت هاب](https://github.com/mahsaeini99)
 
-- [رزومه](https://mahsaeini99.github.io/resume/)
+- [رزومه](https://github.com/mahsaeini99/resume.git)
 
 - [SOP](https://github.com/mahsaeini99/sop.git)
-- [PatchWork](https://mahsaeini99.github.io/Fahime_PatchWork_JavaScript/PatchWork.jpeg)
-- [JavaScriptCertificate](https://github.com/mahsaeini99/script.git )
+- [JavaScript](https://github.com/mahsaeini99/script.git )
 
 
 ------------------
