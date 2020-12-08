@@ -4,7 +4,7 @@
 ### مهسا عینی 
  
 ---
--  [PNU_3991_AR](https://mahsaeini99.github.io/PNU-3991-AR/blob/gh-pages/README.md)
+-  [PNU_3991_AR](https://mahsaeini99.github.io/PNU-3991-AR/README.md)
 - [حساب گیت هاب](https://github.com/mahsaeini99)
 
 - [رزومه](https://mahsaeini99.github.io/resume/)
