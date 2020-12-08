@@ -7,13 +7,13 @@
 -  [PNU_3991_AR](https://github.com/mahsaeini99/PNU_3991_AR/blob/gh-pages/README.md)
 - [حساب گیت هاب](https://github.com/mahsaeini99)
 
-- [رزومه](https://mahsaeini.github.io/Resume/)
+- [رزومه](https://mahsaeini99.github.io/resume/)
 
 - [SOP](https://github.com/mahsaeini99/sop.git)
 - [PatchWork](https://mahsaeini99.github.io/Fahime_PatchWork_JavaScript/PatchWork.jpeg)
 - [JavaScriptCertificate]( https://mahsaeini99.github.io/script-/Certificate.PNG)
 
- 
+
 ------------------
 ##  1399/2020
      
