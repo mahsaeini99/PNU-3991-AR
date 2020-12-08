@@ -11,7 +11,7 @@
 
 - [SOP](https://github.com/mahsaeini99/sop.git)
 - [PatchWork](https://mahsaeini99.github.io/Fahime_PatchWork_JavaScript/PatchWork.jpeg)
-- [JavaScriptCertificate]( https://mahsaeini99.github.io/script-/Certificate.PNG)
+- [JavaScriptCertificate](https://github.com/mahsaeini99/script.git )
 
 
 ------------------
