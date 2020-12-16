@@ -8,7 +8,6 @@
 - [حساب گیت هاب](https://github.com/mahsaeini99)
 
 - [رزومه](https://github.com/mahsaeini99/resume.git)
-
 - [SOP](https://github.com/mahsaeini99/sop.git)
 - [JavaScript](https://mahsaeini99.github.io/script/)
 ------------------
