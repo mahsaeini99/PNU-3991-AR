@@ -9,7 +9,7 @@
 
 - [رزومه](https://github.com/mahsaeini99/resume.git)
 - [SOP](https://github.com/mahsaeini99/sop.git)
-- [JavaScript](https://mahsaeini99.github.io/Javascript/)
+- [JavaScript](https://github.com/mahsaeini99/Javascript/tree/)
 
 ------------------
 ##  1399/2020
